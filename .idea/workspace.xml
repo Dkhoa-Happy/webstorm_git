@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30c31b4-6ec6-4f16-932a-564ae6fd0f70" name="Changes" comment="Test stash">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="a30c31b4-6ec6-4f16-932a-564ae6fd0f70" name="Changes" comment="Modify readme file">
+      <change afterPath="$PROJECT_DIR$/test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -35,12 +43,20 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1734182021" />
+                    <option name="branchName" value="new-branch" />
+                    <option name="lastUsedInstant" value="1734187839" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="new-branch" />
-                    <option name="lastUsedInstant" value="1734181251" />
+                    <option name="branchName" value="dev-khoa" />
+                    <option name="lastUsedInstant" value="1734187646" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev-minh" />
+                    <option name="lastUsedInstant" value="1734187206" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1734182021" />
                   </RecentBranch>
                 </list>
               </option>
@@ -71,7 +87,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2qCyRzWxGE9qw8kfMA7q79tzldr" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
   </component>
   <component name="ProjectViewState">
@@ -80,23 +96,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Dowload/Study code/Front-End Developer/store_it",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new-branch&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dowload/Study code/Front-End Developer/store_it&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Dowload\\JetBrains\\WebStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -115,7 +132,9 @@
       <workItem from="1734180851955" duration="3309000" />
       <workItem from="1734184945213" duration="270000" />
       <workItem from="1734185230038" duration="132000" />
-      <workItem from="1734185376056" duration="1666000" />
+      <workItem from="1734185376056" duration="2576000" />
+      <workItem from="1734187984453" duration="591000" />
+      <workItem from="1734188702147" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the rep">
       <option name="closed" value="true" />
@@ -157,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734184839218</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modify readme file">
+      <option name="closed" value="true" />
+      <created>1734187189996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734187189996</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +210,7 @@
     <MESSAGE value="Add commit 2" />
     <MESSAGE value="Add commit 3" />
     <MESSAGE value="Test stash" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test stash" />
+    <MESSAGE value="Modify readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify readme file" />
   </component>
 </project>
