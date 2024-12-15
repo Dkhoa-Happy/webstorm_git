@@ -3,3 +3,5 @@
 - Item 2
 - This is from dev Khoa.
 
+- This is from cua Minh E.
+- Heyoooooo, welcome to the Git Guide
