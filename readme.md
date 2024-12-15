@@ -6,3 +6,4 @@
 -Commit 4 
 
 - This is from cua Minh E.
+- Heyoooooo, welcome to the Git Guide
