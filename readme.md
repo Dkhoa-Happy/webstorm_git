@@ -5,4 +5,5 @@
 
 - This is from cua Minh E.
 - Heyoooooo, welcome to the Git Guide
-- Ayoooo Man test the GIT.
+//This is important code to me.
+- This is from Hiu.
